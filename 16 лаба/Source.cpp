@@ -644,6 +644,7 @@ int main()
 		cout << "6 - сортировка Шелла фыгвшрафщгшырв." << endl;
 		cout << "7 - обнуление массивов." << endl;
 		cout << "0 - выход" << endl;
+		cout << "228 - dsasd" << endl;
 		cout << "Выбор: ";
 		cin >> choise;
 		switch (choise)
